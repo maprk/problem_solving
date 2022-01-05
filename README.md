@@ -1,6 +1,6 @@
 ## For my coding test
 
-[💡 문제 풀이 보러가기](https://midi-trillium-c8e.notion.site/178d5a362613437d82a5d8476bc62b7b)
+[💡 문제 풀이 보러가기](https://maprk.notion.site/178d5a362613437d82a5d8476bc62b7b)
 
 ### ✅ Role
 
